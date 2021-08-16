@@ -10,7 +10,7 @@
 `sudo ufw allow 'Nginx Full'`
 
 此时如果访问该网站的ip地址，应该会有下图：</br>
-![nginx-default](./image/nginx-default.png)
+![nginx-default](./image/nginx-default.PNG)
 
 将域名指向本机:</br>
 `sudo vim /etc/hosts`
