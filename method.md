@@ -55,3 +55,4 @@ server {</br>
 
 此时用ip或者域名来访问，得到如下图：</br>
 ![after-config](./image/after-config.PNG)
+[参考](https://blog.csdn.net/weixin_45873781/article/details/110679788)
